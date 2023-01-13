@@ -1,4 +1,4 @@
-# 4-floor-elevator-system
+# 5-floor-elevator-system
 
 This is an embedded systems course project. it simulates an elevator system which is based on three atmega2560 microcontrollers which control the following sections: 
 
